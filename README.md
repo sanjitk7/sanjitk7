@@ -2,7 +2,9 @@
 
 I'm a Junior majoring in Computer Science and Engineering from VIT, Vellore. I spend most of my time learning new languages and building stuff. When I'm not coding I write about tech in general in my [medium blog](https://medium.com/@sanjitunv). If you are looking to collaborate on something, do reach out! 
 
-Media Head and Lead Backend Developer @ The Hindu Education Plus Club VIT
+Media Head and Backend Developer @ The Hindu Education Plus Club VIT
+ASV @ Make A Difference
+
 
 ## Get in touch :)
 
