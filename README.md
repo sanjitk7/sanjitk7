@@ -1,11 +1,6 @@
-### Heya!
+### Hey!
 
-I'm a final year engineering undergrad majoring in Computer Science and Engineering at VIT, Vellore. I spend most of my time learning and building new things. If you are looking to collaborate on something, do reach out! 
-
-Ex-Media Head and Backend Developer @ The Hindu Education Plus Club VIT
-
-ASV @ Make A Difference
-
+I'm a CS grad student @ UIUC. I spend most of my time learning and building new things. If you are looking to collaborate on something, do reach out! 
 
 ### Get in touch
 
