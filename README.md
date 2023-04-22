@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm a computer science graduate student at the University of Illinois, Urbana-Champaign. I did my Bachelor's in Computer Science and Engineering from Vellore Institute of Technology. I have broad interests in scalable computer systems, software development and artificial intelligence. I am currently looking for opportunities for Summer 2023.
+I'm a computer science graduate student at the University of Illinois, Urbana-Champaign. I did my Bachelor's in Computer Science and Engineering from Vellore Institute of Technology. I have broad interests in scalable computer systems, software development and artificial intelligence. I am currently looking for opportunities during Summer and Fall 2023.
 
 ### Get in touch
 
