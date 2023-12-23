@@ -2,7 +2,7 @@
 
 I'm a computer science master's student at the [University of Illinois, Urbana-Champaign](https://cs.illinois.edu). I also have a Bachelor's in Computer Science and Engineering from Vellore Institute of Technology. I have broad interests in full stack development and distributed systems. If you think our interests align, do reach out!
 
-Currently: SWE Intern @ [Aviz Networks Inc.](https://www.aviznetworks.com)
+Recently: SWE Intern @ [Aviz Networks Inc.](https://www.aviznetworks.com)
 
 Get in touch: [sanjitk2018@gmail.com](sanjitk2018@gmail.com) / [sanjitk3@illinois.edu](sanjitk3@illinois.edu)
 
