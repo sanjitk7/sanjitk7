@@ -1,12 +1,12 @@
-I'm a recent master's graduate in computer science from the [University of Illinois, Urbana-Champaign](https://cs.illinois.edu) with a focus in distributed systems. I am open to opportunities in the US.
+I'm a recent master's graduate in computer science from the [University of Illinois, Urbana-Champaign](https://cs.illinois.edu) with a focus on distributed systems.
 
-## Previously:
+## Currently:
 
 Software Engineer @ [Amazon Music](https://music.amazon.com)
 
-## Recently: 
+## Previously: 
 
-Graduate Teaching Assistant - Distributed Systems (CS425) @ [ UIUC CS](https://courses.grainger.illinois.edu/cs425/sp2024/index.html) <br>
+Graduate Teaching Assistant - Distributed Systems (CS425/ECE428) @ [ UIUC CS](https://courses.grainger.illinois.edu/cs425/sp2024/index.html) <br>
 SWE Intern @ [Aviz Networks Inc.](https://www.aviznetworks.com)
 
 Get in touch: [sanjitk2018@gmail.com](sanjitk2018@gmail.com) / [sanjitk3@illinois.edu](sanjitk3@illinois.edu)
