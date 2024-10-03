@@ -1,6 +1,6 @@
 I'm a recent master's graduate in computer science from the [University of Illinois, Urbana-Champaign](https://cs.illinois.edu) with a focus in distributed systems. I am open to opportunities in the US.
 
-## Currently:
+## Previously:
 
 Software Engineer @ [Amazon Music](https://music.amazon.com)
 
