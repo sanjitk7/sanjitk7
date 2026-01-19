@@ -1,4 +1,4 @@
-I'm a recent master's graduate in computer science from the [University of Illinois, Urbana-Champaign](https://cs.illinois.edu) with a focus on distributed systems.
+I'm a Software Engineer with a passion for backend development and computer systems. I have a master's degree in computer science from the [University of Illinois, Urbana-Champaign](https://cs.illinois.edu) with a focus on distributed systems.
 
 ## Currently:
 
