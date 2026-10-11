@@ -9,7 +9,7 @@ Software Engineer @ [Amazon Music](https://music.amazon.com)
 Graduate Teaching Assistant - Distributed Systems (CS425/ECE428) @ [ UIUC CS](https://courses.grainger.illinois.edu/cs425/sp2024/index.html) <br>
 SWE Intern @ [Aviz Networks Inc.](https://www.aviznetworks.com)
 
-Get in touch: [sanjitk2018@gmail.com](sanjitk2018@gmail.com) / [sanjitk3@illinois.edu](sanjitk3@illinois.edu)
+Get in touch: [sanjitk2018@gmail.com](sanjitk2018@gmail.com)
 
 More @ [www.sanjitkumar.me](https://www.sanjitkumar.me)
 
