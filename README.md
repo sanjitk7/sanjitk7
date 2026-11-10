@@ -1,4 +1,4 @@
-I'm a software engineer at Amazon Music in the Tier Progressions and Foundations team. I have a passion for backend software development/computer systems and a master's degree in computer science from the [University of Illinois, Urbana-Champaign](https://cs.illinois.edu) with a focus on distributed systems.
+I'm a software engineer at Amazon Music. 
 
 ## Currently:
 
@@ -6,13 +6,13 @@ Software Engineer @ [Amazon Music](https://music.amazon.com)
 
 ## Previously: 
 
-Graduate Teaching Assistant - Distributed Systems (CS425/ECE428) @ [ UIUC CS](https://courses.grainger.illinois.edu/cs425/sp2024/index.html) <br>
-SWE Intern @ [Aviz Networks Inc.](https://www.aviznetworks.com)
+- Master's degree in computer science from the [University of Illinois, Urbana-Champaign](https://cs.illinois.edu) with a focus on distributed systems.
+- Graduate Teaching Assistant - Distributed Systems (CS425/ECE428) @ [ UIUC CS](https://courses.grainger.illinois.edu/cs425/sp2024/index.html) <br>
+- SWE Intern @ [Aviz Networks Inc.](https://www.aviznetworks.com)
 
 Get in touch: [sanjitk2018@gmail.com](sanjitk2018@gmail.com)
 
 More @ [www.sanjitkumar.me](https://www.sanjitkumar.me)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjit-kumar/)](https://www.linkedin.com/in/sanjit-kumar-b56b911a0/)
-![Twitter Badge](https://img.shields.io/twitter/follow/sanjit_77?label=Sanjit%20Kumar&style=social)
 ![Gitbuh Badge](https://img.shields.io/github/followers/sanjitk7?style=social)
