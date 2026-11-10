@@ -1,5 +1,3 @@
-I'm a software engineer at Amazon Music. 
-
 ## Currently:
 
 Software Engineer @ [Amazon Music](https://music.amazon.com)
